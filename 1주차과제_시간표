@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  
+  </head>
+  <body>
+    <h1>2023학년도 가을 갓생러 시간표</h1>
+    <p>
+      
+    </p>
+    <div class="poor_image"></div>
+    <div>
+      <table style='border: 10px;border-color:"black";width:450px;table-layout:fixed;word-break:break-all;height:auto'>
+        
+    
+        <tr width="100" bgcolor="#c7ecee" align="center">
+            <p><td colspan="1"span style="color: black">교시</td></p>
+            <p><td colspan="1"span style="color: black">월</td></p>
+            <p><td colspan="1"span style="color: black">화</td></p>
+            <p><td colspan="1"span style="color: black">수</td></p>
+            <p><td colspan="1"span style="color: black">목</td></p>
+            <p><td colspan="1"span style="color: black">금</td></p>
+        
+        </tr>
+        <tr width="100" bgcolor="#dff9fb"align="center">
+            <td>1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr> 
+
+        <tr width="100" bgcolor="#dff9fb"align="center">
+            <td>2</td>
+            <td>전자기학</td>
+            <td>공학수학2</td>
+            <td>전자기학</td>
+            <td>공학수학2</td>
+            <td></td>
+          </tr>
+        <tr width="100" bgcolor="#dff9fb"align="center">
+            <td>3</td>
+            <td></td>
+            <td>      </td>
+            <td></td>
+            <td>      </td>
+            <td>      </td>
+          </tr>
+        <tr width="100" bgcolor="#dff9fb"align="center">
+            <td>4</td>
+            <td>데구알</td>
+            <td>물성전자</td>
+            <td>데구알</td>
+            <td>물성</td>
+            <td>    </td>
+          </tr>
+        <tr width="100" bgcolor="#dff9fb"align="center">
+            <td>5</td>
+            <td>데이터과학</td>
+            <td>      </td>
+            <td></td>
+            <td>디시실 </td>
+            <td>      </td>
+          </tr>
+        <tr width="100" bgcolor="#dff9fb"align="center">
+            <td>6</td>
+            <td>데이터과학</td>
+            <td>      </td>
+            <td></td>
+            <td>디시실    </td>
+            <td>      </td>
+          </tr>
+        <tr width="100" bgcolor="#dff9fb"align="center">
+            <td>7</td>
+            <td></td>
+            <td>컴언실 </td>
+            <td></td>
+            <td>디시실  </td>
+            <td>      </td>
+          </tr>
+      </table>
+    </div>
+  </body>
+</html>
